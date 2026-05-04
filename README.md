@@ -1,6 +1,7 @@
 # 포트폴리오 08 — 비밀 · IAM
 
-시크릿을 깃에 넣지 않는 패턴과 최소 권한 원칙
+시크릿을 깃에 넣지 않는 패턴과 최소 권한 원칙을 정리합니다.  
+**더미 데이터:** [docs/DUMMY-DATA.md](docs/DUMMY-DATA.md) · 상위 규약 [01 — DUMMY-CANON](https://github.com/yunsunghun/portfolio-01-security-ops/blob/master/docs/DUMMY-CANON.md)
 
 ## 시리즈
 
